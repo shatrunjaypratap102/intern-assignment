@@ -1,0 +1,11 @@
+.home-body{
+    width: 90%;
+    margin: 115px auto;
+}
+
+.resturants{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap:18px;
+}
