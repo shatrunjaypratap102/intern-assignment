@@ -1,0 +1,15 @@
+.resturant-card{
+    background-color: #fafafa;
+    padding: 12px 14px 12px 14px;
+    border: 1px solid #dbdbdb;
+}
+
+.visit_btn{
+    width: 130px;
+    height: 32px;
+    display: inline-flex;
+    background-color: blue;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+}
